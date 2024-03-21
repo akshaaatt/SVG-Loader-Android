@@ -1,0 +1,2 @@
+include ':svgloader'
+include ':app'
