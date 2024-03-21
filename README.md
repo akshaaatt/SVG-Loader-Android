@@ -1,0 +1,1 @@
+# SVG Loader for Android
